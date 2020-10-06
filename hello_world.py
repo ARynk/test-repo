@@ -1,2 +1,7 @@
-print("Hello World!)
+"""
+Program to test Git and creating the first repository
+"""
 
+print("Hello World!")
+x = input("What is your name?: ")
+print("Your name is:", x)
